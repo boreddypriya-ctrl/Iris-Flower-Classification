@@ -4,6 +4,7 @@
 
 **Intern ID:** CITS4322
 
+## Project Overview
 This project uses Machine Learning to classify Iris flowers into three species:
 - Setosa
 - Versicolor
@@ -17,3 +18,6 @@ This project uses Machine Learning to classify Iris flowers into three species:
 
 ## Accuracy
 100%
+
+## Author
+B PriyaDharshini
